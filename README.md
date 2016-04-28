@@ -1,2 +1,9 @@
 # hello-world
-This repository is to Store Ideas and Resources from others.
+
+##### Greetings! 
+This repository is to store idea’s, Projects and Resources from others.
+Everything stored will be for reference or to use in future projects.
+
+### Projects
+
+
